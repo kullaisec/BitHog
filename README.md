@@ -88,6 +88,7 @@ Scan completed at: Tue Oct 7 11:24:52 IST 2025
 
 🧠 How It Works
 
+
 1.	Uses Bitbucket OAuth client credentials to obtain an access token. refer: https://id.atlassian.com/manage-profile/security/api-tokens
    
 2.	Calls the Bitbucket REST API to list all repositories.
@@ -95,6 +96,13 @@ Scan completed at: Tue Oct 7 11:24:52 IST 2025
 3.	Runs TruffleHog on each repo via HTTPS (token-based auth).
    
 4.	Filters noisy logs and aggregates verified secrets into a text report.
+
+https://github.com/user-attachments/assets/2c0642c7-04d0-4cbf-b326-817d11ed7471
+
+
+<img width="1419" height="456" alt="Screenshot 2025-10-07 at 6 14 29 PM" src="https://github.com/user-attachments/assets/196c2fa8-c9c4-4f5a-83f1-dba9504f381d" />
+
+
 
 ⸻
 
