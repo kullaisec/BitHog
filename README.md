@@ -55,7 +55,7 @@ chmod +x bithog.sh
 ```
 When prompted:
 
-	1.	Enter your Bitbucket workspace (e.g., secasure or kullaisec).
+	1.	Enter your Bitbucket workspace (e.g., getsentry or kullaisec).
   
 	2.	The script will authenticate using the built-in OAuth keys.
   
