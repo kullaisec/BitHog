@@ -115,7 +115,7 @@ https://github.com/user-attachments/assets/2c0642c7-04d0-4cbf-b326-817d11ed7471
 
 ⸻
 
-👨‍💻 About the Author
+👨‍💻 About 
 
 Developed by Kullai Metikala 
 Focused on building automation frameworks for secret scanning, recon, and security testing.
